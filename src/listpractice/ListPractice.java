@@ -15,7 +15,8 @@ import java.util.List;
  * @author class
  */
 public class ListPractice {
-
+    import java.util.
+   
     /**
      * @param args the command line arguments
      */
@@ -30,4 +31,5 @@ public class ListPractice {
      System.out.println(Strings.get(0));
       System.out.println(Strings.get(1));
     }
+
 }
